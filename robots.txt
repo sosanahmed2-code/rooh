@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://voluble-sunshine-316352.netlify.app/sitemap.xml
